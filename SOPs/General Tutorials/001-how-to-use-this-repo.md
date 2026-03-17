@@ -61,16 +61,27 @@ Example: `git checkout -b sop/client-onboarding`
 Copy `TEMPLATE.md` into the appropriate folder and rename it using the naming convention `NNN-sop-name.md`:
 
 ```bash
-cp TEMPLATE.md SOPs/operations/002-your-sop-name.md
+cp TEMPLATE.md "SOPs/Deployment/002-your-sop-name.md"
 ```
 
 Choose the right folder:
 | Folder | Use for |
 |--------|---------|
-| `SOPs/operations/` | Day-to-day operational procedures |
-| `SOPs/onboarding/` | Team onboarding & training |
-| `SOPs/engineering/` | Technical & development procedures |
-| `SOPs/sales-marketing/` | Sales, marketing & GTM procedures |
+| `SOPs/Archive/` | Archived/retired SOPs |
+| `SOPs/Automation/` | Automation procedures |
+| `SOPs/C&I/` | Commercial & Industrial |
+| `SOPs/C&I Training/` | C&I training materials |
+| `SOPs/Deployment/` | Deployment procedures |
+| `SOPs/Engineering Team Procedures/` | Engineering team processes |
+| `SOPs/General Tutorials/` | General how-to guides & tutorials |
+| `SOPs/iAuditor/` | iAuditor-related procedures |
+| `SOPs/Monitoring/` | Monitoring procedures |
+| `SOPs/Pricing/` | Pricing procedures |
+| `SOPs/Project Resources/` | Project resource docs |
+| `SOPs/PVWise/` | PVWise-related procedures |
+| `SOPs/SAM/` | SAM-related procedures |
+| `SOPs/SolarProof Eng & IT/` | SolarProof engineering & IT |
+| `SOPs/Sustainable Savings Tool Development/` | Sustainable Savings Tool dev |
 
 **Step 4 — Write your SOP**
 

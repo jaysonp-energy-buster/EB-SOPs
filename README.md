@@ -6,10 +6,21 @@ Central repository for all Energy Buster SOPs. This repo is the single source of
 
 ```
 SOPs/
-├── operations/        # Day-to-day operational procedures
-├── onboarding/        # Team onboarding & training
-├── engineering/       # Technical & development procedures
-└── sales-marketing/   # Sales, marketing & GTM procedures
+├── Archive/
+├── Automation/
+├── C&I/
+├── C&I Training/
+├── Deployment/
+├── Engineering Team Procedures/
+├── General Tutorials/
+├── iAuditor/
+├── Monitoring/
+├── Pricing/
+├── Project Resources/
+├── PVWise/
+├── SAM/
+├── SolarProof Eng & IT/
+└── Sustainable Savings Tool Development/
 ```
 
 ## How to Use
